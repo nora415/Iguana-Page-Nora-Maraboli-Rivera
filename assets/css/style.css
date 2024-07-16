@@ -1,0 +1,140 @@
+*{
+    border: 0;
+    margin: 0;
+}
+body {
+    background: #000000;
+    font-family: "Raleway", sans-serif;
+    color: white;
+} 
+header h1{
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+    font-size: 70px;
+    font-weight: 100px;
+
+}
+header img {
+    background-image: url(../img/bg-header.jpg);
+    background-position: center;
+    height: 1000px;
+}   
+<!-- /* seccion texto */ -->
+#texto {
+    text-align: center;
+    padding: 70px 100px 70px 100px;
+}
+.texto {
+    margin: 30px;
+    width: 700px;
+    line-height: 25px;
+}
+#texto p {
+    font-size: 20px;
+    font-weight: 300;
+    width: 700px;
+    text-align: left;
+    line-height: 30px;
+}
+#iguanatexto {
+    width: 600px;
+}
+#texto div {
+    background-color: #000000;
+    margin: 0px 70px 0px 70px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.seccion-característica {
+    background-color: #1e1a13;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    height: 300;
+}
+.seccion-característica h2{
+    font-weight: 300;
+    font-size: 100px;
+    margin-bottom: 25%;
+    margin: 120px;
+    padding: 30px 0px 0px 0px;
+}
+.seccion-característica div {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 60px 100px;
+    color: white;
+}
+.seccion-característica h3 {
+    font-weight: 300;
+    font-size: 50px;
+}
+.seccion-característica i {
+     font-size: 80px;
+     margin: 90px;
+     padding: auto;
+     font-weight: 300;
+
+}
+
+  nav {
+    position: sticky;
+    top: o;
+    background-color: color #000000;
+    color: #FFFFFF;
+}
+nav ul {
+    text-align: center;
+}
+nav li {
+    display: inline;
+}
+nav li a {
+    text-decoration: none;
+    color: white;
+    padding: 100px;
+}  
+
+.texto {
+    display: inline-block;
+    width: 70%;
+}
+#texto {
+    background: #000000;
+    padding: 50px;
+    color: white;
+    font-family: "Raleway", sans-serif;
+}
+.contenedor{
+    background-color: black;
+    padding: auto;
+
+}
+#eventos-anteriores {
+    height: 300;
+
+}
+
+#eventos-anteriores {
+    padding: 100px;
+    text-align: center;
+}
+
+#eventos-anteriores div {
+    display: inline-block;
+    margin: 0px 50px;
+}
+#eventos-anteriores img {
+    width: 400px;
+    height: 250px;
+    padding: 0px 20px 0px 70px;
+}
+footer {
+    background:  #1E1A13;
+    text-align: center;
+    color: white;
+    padding: 70px 0px 30px 0px;
+}  
+footer {
+    margin-right: 10px;
+}
